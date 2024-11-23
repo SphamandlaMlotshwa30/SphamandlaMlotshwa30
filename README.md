@@ -10,7 +10,7 @@
     <li><strong>DBMS Languages: </strong> Structured Query Language</li><br>
     <h1>My Projects &#128187;</h1><hr>
     <li><strong>Hotel Management System:</strong> A hotel management system where clients can reserve rooms and view costs, built with .NET framework.</li> 
-    <li><strong>Royal Blue BnB:</strong> A venue management system with a database where users can book venues of their choice. The project is built with PHP, HTML5 and MySQL</li>
+    <li><strong>Royal Blue BnB:</strong> A room-reservation management system with a database where users can book venues of their choice. The project is built with PHP, HTML5, CSS and     MySQL</li>
     <h1>Get In Touch &#128222;</h1><hr>
     <p><a href="mailto:sphamandlangcamu30@gmail.com">sphamandlangcamu30@gmail.com</a></p>
     <p><a href="https://www.instagram.com/cpharh_mlotshwa30/">Instagram</a></p>
