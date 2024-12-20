@@ -13,6 +13,6 @@
     <li><strong>Royal Blue BnB:</strong> A room-reservation management system with a database where users can book venues of their choice. The project is built with PHP, HTML5, CSS and     MySQL</li>
     <h1>Get In Touch &#128222;</h1><hr>
     <p><a href="mailto:sphamandlangcamu30@gmail.com">sphamandlangcamu30@gmail.com</a></p>
-    <p><a href="https://www.instagram.com/cpharh_mlotshwa30/">Instagram</a></p>
+    <p><a href="https://www.instagram.com/spharh_mlotshwa55/">Instagram</a></p>
     <p><a href="https://www.linkedin.com/in/sphamandla-ngcamu-10ba53302/">LinkedIn</a></p>
 </body>
